@@ -1,1 +1,15 @@
-# goit-pythonweb-hw-06
+# Тема 6. Домашня робота
+
+### Результати виконаного завдання:
+
+![Results](./assets/docker.png)
+
+![Results](./assets/alembic.png)
+
+![Results](./assets/seed.png)
+
+![Results](./assets/db.png)
+
+![Results](./assets/my_select_1.png)
+
+![Results](./assets/my_select_2.png)
