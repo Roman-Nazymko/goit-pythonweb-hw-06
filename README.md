@@ -2,8 +2,6 @@
 
 ### Результати виконаного завдання:
 
-![Results](./assets/docker.png)
-
 ![Results](./assets/alembic.png)
 
 ![Results](./assets/seed.png)
